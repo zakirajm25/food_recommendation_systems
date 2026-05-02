@@ -74,11 +74,10 @@ The state-of-the-art conversational recommendation engine.
 ### Running the Systems
 Each system can be run independently to observe the differences in output quality:
 
-* **Run System 1 (Basic):** `python basic_chroma_search.py`
-* **Run System 2 (Enhanced):** `python enhanced_chroma_search.py`
-* **Run System 3 (RAG):** `python watsonx_rag_system.py`
-
-*(Note: Replace the script names above with your actual file names).*
+* **Run System 1 (Basic):** `python interactive_search.py`
+* **Run System 2 (Enhanced):** `python advanced_search.py`
+* **Run System 3 (RAG):** `python enhanced_rag_chatbot.py`
+* **Run Comparison:** `python system_comparison.py`
 
 ---
 
